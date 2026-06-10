@@ -1,0 +1,71 @@
+# Operating System
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Backup and temporary files
+*.bak
+*.backup
+*.tmp
+*.temp
+*_backup
+
+# KiCad
+*.bak
+*.kicad_pcb.bak
+*~
+_autosave-*.kicad_sch
+_autosave-*.kicad_pcb
+
+# Altium Designer
+*.DsnWrk
+__Previews/
+
+# EagleCAD
+*.b#?
+*.s#?
+*.l#?
+
+# LTspice
+*.raw
+*.plt
+*.log
+
+# MATLAB/Octave
+*.asv
+*.m~
+
+# Documentation build
+docs/_build/
+site/
+
+# OS
+.AppleDouble
+.LSOverride
+
+# Project specific
+node_modules/
+.cache/
+tmp/
+temp/
