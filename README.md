@@ -72,7 +72,7 @@ pcb-design-journey/
 ## 🛠️ Tools & Technologies
 
 This project references and utilizes:
-- **Design Tools:** KiCad, Altium Designer, Eagle
+- **Design Tools:** , Altium Designer
 - **Simulation:** LTspice, PSPICE
 - **Analysis:** MATLAB, Python for data analysis
 - **Version Control:** Git & GitHub
